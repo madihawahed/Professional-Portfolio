@@ -1,0 +1,42 @@
+# NutriFit AI Chatbot
+
+## Introduction  
+NutriFit AI Chatbot is a conversational, AI-powered assistant built to help users better understand the nutritional content of foods, receive personalized exercise recommendations, and develop balanced, healthy habits. This project is part of my professional portfolio, hosted on GitHub, to showcase my skills in AI, wellness tech, and full-stack development.
+
+## Description  
+NutriFit guides users through three core capabilities:
+- Food nutrition analysis: Users can ask about specific foods and dishes (e.g., “What are the macros in a grilled chicken salad?”) and receive breakdowns of calories, macronutrients, portion size, etc.
+- Personalized exercise recommendations: Based on user profile (age, sex, current fitness level, goals) the chatbot suggests tailored workouts or cardio/strength training routines.
+- Habit-building support: NutriFit offers suggestions, reminders, tips and motivational prompts to help users form healthier long-term habits (e.g., meal timing, hydration, snack swaps, weekly planning).
+
+## Objective  
+- Enable users to access reliable nutritional information and recommendations in conversational format.  
+- Provide individualized exercise guidance that complements nutrition advice.  
+- Support users in forming sustainable, healthy habits rather than quick fixes.  
+- Showcase my ability to design and implement an AI-driven wellness tool, for my professional portfolio.
+
+## Process  
+1. Requirement gathering & user profiling — defined target users and their needs.  
+2. Conversation flow design — mapped user intents and dialog scripts.  
+3. Data sourcing & model/training — integrated nutrition database; developed exercise recommendation logic.  
+4. Implementation — built the chatbot backend using NLP/AI framework, connected front-end interface, hosted on GitHub.  
+5. Testing & iteration — tested multiple user profiles and scenarios, refined responses and logic.  
+6. Launch & documentation — committed codebase to GitHub, created this README, prepared PPT for demo.
+
+## Tools and Technologies Used  
+- Chatbase.co, Enables AI training with custom data.
+- Nutrition database/API such as USDA FoodData Central  
+
+
+## Value Proposition  
+NutriFit AI Chatbot offers users instant, personalized nutrition and exercise guidance so they can make informed, healthy choices with ease. It also serves as a dynamic habit-building companion, helping them stay consistent and motivated without the overhead of scheduling personal coaching.
+
+## Unique Value  
+NutriFit AI Chatbot offers users instant, personalized nutrition and exercise guidance so they can make informed, healthy choices with ease. It also serves as a dynamic habit-building companion, helping them stay consistent and motivated without the overhead of scheduling personal coaching. This project demonstrates my ability to combine AI with real-world wellness domain expertise, produce clean, documented code, and deliver a portfolio asset that stands out.
+
+
+## Demo Link  
+- Try the chatbot (live/demo): [https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help]
+
+
+
