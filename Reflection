@@ -1,0 +1,21 @@
+Reflection: ML vs DL
+What I Learned
+Key differences between Machine Learning (ML) and Deep Learning (DL).
+ML relies on structured data and feature engineering; DL excels with unstructured data using neural networks.
+Hands-on experience with ML algorithms (linear regression, decision trees) and simple DL models (CNNs, feedforward networks).
+
+Challenges Faced
+Understanding complex DL architectures like CNNs and RNNs.
+Managing computational requirements for training even small DL models.
+Fairly comparing performance metrics between ML and DL models.
+
+How I Applied Feedback
+Added visualizations (accuracy/loss curves, confusion matrices) to improve clarity.
+Focused on practical applications of ML and DL for a more engaging report.
+Highlighted limitations of each approach based on reviewer suggestions.
+
+Next Steps for Improvement
+Explore advanced DL architectures (e.g., transformers).
+Work with larger datasets and real-world scenarios.
+Analyze computational efficiency and scalability.
+Implement code optimizations for reproducibility.
