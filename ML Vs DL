@@ -1,0 +1,23 @@
+Machine Learning and Deep Learning Applications Report
+
+Example 1: Machine Learning — Email Spam Detection
+Algorithm: Logistic Regression
+Real-World Application:
+Email providers such as Gmail and Outlook use machine learning models like logistic regression to detect spam messages. These systems analyze email characteristics, such as specific keywords, sender domains, and the presence of suspicious links to classify emails as spam or not spam.
+
+Why Machine Learning is Suitable:
+This task involves structured data with clear, manually defined features. Logistic regression performs efficiently here because it requires fewer resources, offers interpretable results, and can handle labeled data effectively.
+
+Why Deep Learning is Less Suitable:
+Deep learning models require large datasets and complex architectures. For structured, low-dimensional problems like spam detection, machine learning offers a faster and more efficient solution.
+
+
+Example 2: Deep Learning — Image Recognition
+Algorithm: Convolutional Neural Network (CNN)
+Real-World Application:
+In the field of medical imaging, CNNs are used to detect diseases such as pneumonia, diabetic retinopathy, or skin cancer from X-rays or other medical scans. Instead of relying on human experts to manually identify patterns, a CNN analyzes thousands of labeled images and automatically learns to recognize subtle visual indicators such as unusual tissue density, irregular cell shapes, or color variations that might suggest a medical condition. Once trained, the system can assist doctors by flagging potential abnormalities for further review, greatly improving diagnostic efficiency and accuracy.
+
+Why Deep Learning is Suitable:
+CNNs are ideal for medical image analysis because they can process raw pixel data and extract complex hierarchical features on their own. Their multiple layers allow them to detect minute visual cues that might be missed by human eyes or simpler algorithms. This ability to autonomously learn from large image datasets leads to more reliable, scalable, and consistent results, especially when handling high-resolution medical imagery.
+Why Machine Learning is Less Suitable:
+Traditional machine learning algorithms like decision trees or support vector machines require manually engineered features (e.g., shape, size, or color intensity). In medical imaging, defining such features is extremely difficult because the differences between healthy and unhealthy tissue can be subtle and varied. Deep learning overcomes this limitation by automatically identifying relevant patterns, making CNNs a superior choice for complex, image-based diagnostic tasks.
