@@ -10,7 +10,7 @@ This task involves structured data with clear, manually defined features. Logist
 
 Why Deep Learning is Less Suitable:
 Deep learning models require large datasets and complex architectures. For structured, low-dimensional problems like spam detection, machine learning offers a faster and more efficient solution.
-![Machine Learning Diagram](./images/ML.png)
+![Machine Learning Diagram](../images/ML.png)
 
 Example 2: Deep Learning — Image Recognition
 Algorithm: Convolutional Neural Network (CNN)
