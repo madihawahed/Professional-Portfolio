@@ -10,7 +10,8 @@ This task involves structured data with clear, manually defined features. Logist
 
 Why Deep Learning is Less Suitable:
 Deep learning models require large datasets and complex architectures. For structured, low-dimensional problems like spam detection, machine learning offers a faster and more efficient solution.
-![Machine Learning Diagram](https://github.com/madihawahed/Professional-Portfolio/blob/main/images/ML.png?raw=true)
+<img width="295" height="171" alt="ML" src="https://github.com/user-attachments/assets/9c1607ad-5f93-480a-9372-a718169c78a1" />
+
 
 Example 2: Deep Learning — Image Recognition
 Algorithm: Convolutional Neural Network (CNN)
@@ -21,4 +22,9 @@ Why Deep Learning is Suitable:
 CNNs are ideal for medical image analysis because they can process raw pixel data and extract complex hierarchical features on their own. Their multiple layers allow them to detect minute visual cues that might be missed by human eyes or simpler algorithms. This ability to autonomously learn from large image datasets leads to more reliable, scalable, and consistent results, especially when handling high-resolution medical imagery.
 Why Machine Learning is Less Suitable:
 Traditional machine learning algorithms like decision trees or support vector machines require manually engineered features (e.g., shape, size, or color intensity). In medical imaging, defining such features is extremely difficult because the differences between healthy and unhealthy tissue can be subtle and varied. Deep learning overcomes this limitation by automatically identifying relevant patterns, making CNNs a superior choice for complex, image-based diagnostic tasks.
-![CNN Layer Visualization](./images/DL.png)
+<img width="3255" height="1288" alt="DL" src="https://github.com/user-attachments/assets/cf1e2417-627e-4f54-8773-8104ae8f1ac4" />
+
+Summary:
+Machine learning and deep learning both play critical roles in artificial intelligence. Machine learning works best for structured data and simpler problems, while deep learning is ideal for complex, unstructured data like images or speech. Understanding which to use enhances accuracy, efficiency, and innovation in AI-driven applications.
+
+<img width="850" height="412" alt="The-difference-between-DL-and-traditional-ML" src="https://github.com/user-attachments/assets/c9c1c28b-ebd2-4707-adfb-9538cb7cc048" />
