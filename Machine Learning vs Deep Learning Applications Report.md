@@ -1,5 +1,19 @@
-Machine Learning and Deep Learning Applications Report
+Objective:
+To understand and compare how machine learning and deep learning techniques are applied in real-world problem-solving scenarios across industries. This report aims to demonstrate critical analysis and the ability to select appropriate AI approaches based on data type, complexity, and performance needs.
 
+Process:
+I researched real-world applications of both machine learning and deep learning models, focusing on their algorithms, implementation suitability, and comparative strengths. Using structured documentation and visual diagrams, I analyzed examples such as spam detection (machine learning) and medical image recognition (deep learning). The report was formatted in Markdown to include visuals and clear, organized sections for GitHub presentation.
+
+Tools Used:
+GitHub – for version control and public portfolio hosting
+Markdown – for report formatting and visualization embedding
+Canva / PowerPoint – for diagram creation (ML and DL visual aids)
+Google Docs – for initial drafting and peer review
+
+Value Proposition:
+This artifact highlights my ability to synthesize technical concepts in artificial intelligence and communicate them effectively for both academic and professional audiences. It demonstrates an understanding of when to apply classical machine learning methods versus advanced neural networks and showcases my skill in documentation, analysis, and presentation of technical insights.
+
+REPORT:
 Example 1: Machine Learning — Email Spam Detection
 Algorithm: Logistic Regression
 Real-World Application:
