@@ -9,14 +9,41 @@ by [Madiha wahed]
 Hi! I’m Madiha Wahed, an educator and technologist passionate about using AI-driven insights to improve learning outcomes and leadership strategies.
 My journey blends hands-on data-driven teaching, machine learning exploration, and change leadership principles — all aimed at fostering smarter, adaptive learning environments.
 
-## 🌐 Chat with My NutriFit AI Bot
+## 🌐 Artifact 1 : Chat with My NutriFit AI Bot
 
 NutriFit AI Chatbot is an AI-powered conversational assistant designed to help users understand the nutritional value of foods, receive personalized exercise recommendations, and build balanced, healthy habits. This project is part of my professional portfolio on GitHub and highlights my skills in AI development, wellness technology, and full-stack implementation.
 
 You can talk with my chatbot here:  
 [Click to open the chatbot](https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help)
 
-# 📝 Title: Simple Explanation of Neural Networks
+# 🤖 Artifact 2: Machine Learning & Deep Learning Report
+
+Highlights:
+
+✉️ Email Spam Detection (Machine Learning) — Efficient classification using logistic regression.
+
+🧍‍♂️ Image Recognition (Deep Learning) — CNN-based visual pattern detection.
+
+🧩 Compared scalability, data needs, and interpretability across both fields.
+
+📊 Tools used: Python, Jupyter Notebook (for visualization examples), Markdown documentation.
+📷 <img width="1154" height="421" alt="unnamed" src="https://github.com/user-attachments/assets/b8260537-fd4a-4a9d-9946-e55a5ef7d82a" />
+<img width="624" height="256" alt="UG_CNN_scheme" src="https://github.com/user-attachments/assets/f6bb02df-7893-4601-bf37-a9db10f24104" />
+
+🧠 Skills & Tools
+Languages: Python, Java
+Frameworks: TensorFlow, Scikit-learn
+Tools: Canva, Jupyter Notebook, MS Word, ReportLab
+Domains: AI in Education, Data-Driven Pedagogy, Adaptive Leadership
+
+🪴 Future Directions
+I’m continuing to explore how AI-powered adaptive systems can enhance outside world experiences and professional growth.
+Current interests include:
+Intelligent Tutoring Systems (ITS)
+Personalized Learning Analytics
+Ethical AI & Human-Centered Design
+
+# 📝 Artifact 3 Title: Simple Explanation of Neural Networks
 
 🎯 Objective:
 To explain neural networks in the simplest possible way so that non-technical stakeholders can understand how they work, why they are valuable, and how they learn from data.
@@ -45,32 +72,7 @@ To explain neural networks in the simplest possible way so that non-technical st
 
 “To learn more about this artifact, please refer to the file named Neural Networks.md.”
 
-# 🤖 Machine Learning & Deep Learning Report
 
-Highlights:
-
-✉️ Email Spam Detection (Machine Learning) — Efficient classification using logistic regression.
-
-🧍‍♂️ Image Recognition (Deep Learning) — CNN-based visual pattern detection.
-
-🧩 Compared scalability, data needs, and interpretability across both fields.
-
-📊 Tools used: Python, Jupyter Notebook (for visualization examples), Markdown documentation.
-📷 <img width="1154" height="421" alt="unnamed" src="https://github.com/user-attachments/assets/b8260537-fd4a-4a9d-9946-e55a5ef7d82a" />
-<img width="624" height="256" alt="UG_CNN_scheme" src="https://github.com/user-attachments/assets/f6bb02df-7893-4601-bf37-a9db10f24104" />
-
-🧠 Skills & Tools
-Languages: Python, Java
-Frameworks: TensorFlow, Scikit-learn
-Tools: Canva, Jupyter Notebook, MS Word, ReportLab
-Domains: AI in Education, Data-Driven Pedagogy, Adaptive Leadership
-
-🪴 Future Directions
-I’m continuing to explore how AI-powered adaptive systems can enhance outside world experiences and professional growth.
-Current interests include:
-Intelligent Tutoring Systems (ITS)
-Personalized Learning Analytics
-Ethical AI & Human-Centered Design
 
 🌐 Let’s Connect
 📧 madihawahed5@gmail.com
