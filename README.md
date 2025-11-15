@@ -11,11 +11,10 @@ My journey blends hands-on data-driven teaching, machine learning exploration, a
 
 ## 🌐 Chat with My NutriFit AI Bot
 
+NutriFit AI Chatbot is an AI-powered conversational assistant designed to help users understand the nutritional value of foods, receive personalized exercise recommendations, and build balanced, healthy habits. This project is part of my professional portfolio on GitHub and highlights my skills in AI development, wellness technology, and full-stack implementation.
+
 You can talk with my chatbot here:  
 [Click to open the chatbot](https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help)
-
-Or use this button-style link:  
-[![Chat with my bot](https://img.shields.io/badge/Chatbot-Here-Click-Me-brightgreen)](https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help)
 
 
 
