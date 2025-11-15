@@ -41,8 +41,9 @@ To explain neural networks in the simplest possible way so that non-technical st
 - Makes a complex technical concept accessible to non-technical audiences
 - Builds stakeholder confidence in AI/ML initiatives
 - Aligns expectations on what neural networks can and cannot do
-- Encourages informed decision-making on AI adoption by emphasizing the importance of quality data, proper training, and appropriate use cases
- “To learn more about this artifact, please refer to the file named Neural Networks.md.”
+- Encourages informed decision-making on AI adoption by emphasizing the importance of quality data, proper training, and appropriate use cases.
+
+“To learn more about this artifact, please refer to the file named Neural Networks.md.”
 
 # 🤖 Machine Learning & Deep Learning Report
 
