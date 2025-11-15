@@ -2,6 +2,7 @@
 📌 Task Overview
 
 Explain neural networks in the simplest possible way, following Albert Einstein’s idea that if you can’t explain something simply, you don’t understand it well enough.
+  <img width="800" height="504" alt="Neural-Networks-Architecture" src="https://github.com/user-attachments/assets/f7b52a6d-748a-4c25-9db2-8cc08500c0ae" />
 
 🧩 My Explanation: Neural Networks Made Simple
 
@@ -10,7 +11,8 @@ Instead of following strict rules, it learns from examples.
 - Input Layer: Where raw data enters (an image, text, numbers).
 - Hidden Layers: Each “neuron” does a tiny calculation → passes the result forward.
 - Output Layer: Produces the final prediction (e.g., “cat” or “not a cat”).
-  <img width="800" height="504" alt="Neural-Networks-Architecture" src="https://github.com/user-attachments/assets/f7b52a6d-748a-4c25-9db2-8cc08500c0ae" />
+<img width="500" height="236" alt="artificial-neural-network3" src="https://github.com/user-attachments/assets/5278b430-8781-4ad1-8c89-fcea0b76271c" />
+
 
 
 How It Learns
