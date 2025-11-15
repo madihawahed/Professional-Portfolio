@@ -4,7 +4,7 @@ by [Madiha wahed]
 
 🧠 Exploring the intersection of Artificial Intelligence, Education, and Leadership.
 
-📘 About Me
+# 📘 About Me
 
 Hi! I’m Madiha Wahed, an educator and technologist passionate about using AI-driven insights to improve learning outcomes and leadership strategies.
 My journey blends hands-on data-driven teaching, machine learning exploration, and change leadership principles — all aimed at fostering smarter, adaptive learning environments.
@@ -18,7 +18,7 @@ You can talk with my chatbot here:
 
 
 
-🤖 Machine Learning & Deep Learning Report
+# 🤖 Machine Learning & Deep Learning Report
 
 Highlights:
 
