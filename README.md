@@ -9,6 +9,15 @@ by [Madiha wahed]
 Hi! I’m Madiha Wahed, an educator and technologist passionate about using AI-driven insights to improve learning outcomes and leadership strategies.
 My journey blends hands-on data-driven teaching, machine learning exploration, and change leadership principles — all aimed at fostering smarter, adaptive learning environments.
 
+## 🌐 Chat with My NutriFit AI Bot
+
+You can talk with my chatbot here:  
+[Click to open the chatbot](https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help)
+
+Or use this button-style link:  
+[![Chat with my bot](https://img.shields.io/badge/Chatbot-Here-Click-Me-brightgreen)](https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help)
+
+
 
 🤖 Machine Learning & Deep Learning Report
 
