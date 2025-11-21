@@ -92,23 +92,24 @@ SchoolAI Spaces are collaborative digital environments used throughout the cours
 
 🎯 Skills Demonstrated
 
-Data cleaning & preprocessing
-Bias mitigation techniques
-Privacy & security awareness
-Handling imbalanced datasets
-Model monitoring & drift detection
-Problem-solving in real ML contexts
-Communication of technical strategy
+- Data cleaning & preprocessing
+- Bias mitigation techniques
+- Privacy & security awareness
+- Handling imbalanced datasets
+- Model monitoring & drift detection
+- Problem-solving in real ML contexts
+- Communication of technical strategy
 
 📊 Visuals Included 
 
 The artifact contains Mermaid-based workflow diagrams for:
-Missing data handling
-Class imbalance mitigation
-Data drift detection & retraining
+- Missing data handling
+- Class imbalance mitigation
+- Data drift detection & retraining
 
-💡 Value
+💡 Value:- 
 This artifact represents hands-on machine learning competencies and demonstrates my ability to think critically, design solutions, and apply best practices across end-to-end ML workflows. Suitable for both technical and leadership audiences.
+
 “To learn more about this artifact, please refer to the file named Data Challenges in Machine Learning.md.”
 
 
