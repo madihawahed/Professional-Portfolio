@@ -85,7 +85,8 @@ This artifact showcases my ability to identify, analyze, and solve real-world da
 
 🛠️ Tools Used:
 SchoolAI Spaces are collaborative digital environments used throughout the course to interact with AI tools, share content, and work alongside classmates and instructors in real time. Each Space is designed with a specific learning purpose such as brainstorming, scenario practice, reflection, or project development.
-<img width="950" height="469" alt="ss" src="https://github.com/user-attachments/assets/f25b4a06-41d3-4d09-8c9d-5a506b6841b0" />
+<img width="879" height="433" alt="Screenshot 2025-11-20 193440" src="https://github.com/user-attachments/assets/76c685ce-33a3-4d49-8f13-f22080387bc7" />
+
 
 
 🎯 Skills Demonstrated
