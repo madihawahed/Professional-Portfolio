@@ -89,7 +89,9 @@ SchoolAI Spaces are collaborative digital environments used throughout the cours
 
 
 
+
 🎯 Skills Demonstrated
+
 Data cleaning & preprocessing
 Bias mitigation techniques
 Privacy & security awareness
@@ -98,7 +100,8 @@ Model monitoring & drift detection
 Problem-solving in real ML contexts
 Communication of technical strategy
 
-📊 Visuals Included
+📊 Visuals Included 
+
 The artifact contains Mermaid-based workflow diagrams for:
 Missing data handling
 Class imbalance mitigation
