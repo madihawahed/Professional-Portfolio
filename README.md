@@ -77,11 +77,11 @@ To explain neural networks in the simplest possible way so that non-technical st
 This artifact showcases my ability to identify, analyze, and solve real-world data challenges commonly encountered in machine learning workflows. It includes three scenario-based problem-solving exercises focused on:
 
 1. Handling Missing Data in Housing Price Predictions
-Applied context-aware strategies such as median/mode imputation, regression-based imputation, and missingness analysis (MCAR/MAR/MNAR) to ensure reliable model performance.
+   Applied context-aware strategies such as median/mode imputation, regression-based imputation, and missingness analysis (MCAR/MAR/MNAR) to ensure reliable model performance.
 2. Managing Imbalanced Classes in Medical Diagnosis
-Utilized SMOTE oversampling, class-weight adjustments, threshold tuning, and AUC-PR evaluation to properly address rare-event classification and improve diagnostic accuracy.
+   Utilized SMOTE oversampling, class-weight adjustments, threshold tuning, and AUC-PR evaluation to properly address rare-event classification and improve diagnostic accuracy.
 3. Detecting & Addressing Data Drift in Fraud Detection
-Implemented drift monitoring using KL divergence and PSI, followed by retraining and continuous monitoring to maintain model performance in real-time environments.
+   Implemented drift monitoring using KL divergence and PSI, followed by retraining and continuous monitoring to maintain model performance in real-time environments.
 
 🛠️ Tools Used:
 SchoolAI Spaces are collaborative digital environments used throughout the course to interact with AI tools, share content, and work alongside classmates and instructors in real time. Each Space is designed with a specific learning purpose such as brainstorming, scenario practice, reflection, or project development.
