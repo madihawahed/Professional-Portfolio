@@ -81,7 +81,7 @@ This artifact provided a deep and practical look into the everyday challenges en
 
 ### **Feedback Received & Revisions Applied**
 
-The AI coach highlighted areas where my solutions lacked specificity—for example, suggesting “fix missing data” rather than outlining *how*. After revising, I incorporated detailed, actionable strategies such as median imputation, SMOTE, k-anonymity, and batch training.
+The AI coach highlighted areas where my solutions lacked specificity for example, suggesting “fix missing data” rather than outlining *how*. After revising, I incorporated detailed, actionable strategies such as median imputation, SMOTE, k-anonymity, and batch training.
 
 This iterative refinement strengthened my understanding and improved the clarity of my responses.
 
@@ -104,28 +104,13 @@ flowchart TD
 
 ### **Visual 2: Managing Imbalanced Medical Data**
 
-```mermaid
-flowchart TD
-    A[Identify Class Imbalance] --> B[Apply Oversampling (SMOTE)]
-    A --> C[Adjust Class Weights]
-    A --> D[Threshold Tuning]
-    B --> E[Train Model]
-    C --> E
-    D --> E
-    E --> F[Evaluate with AUC-PR]
-```
+<img width="725" height="213" alt="image" src="https://github.com/user-attachments/assets/c2dfefde-40fc-44a7-8400-3c7d61b4c885" />
+
 
 ### **Visual 3: Detecting & Addressing Data Drift**
 
-```mermaid
-flowchart TD
-    A[Monitor Model Performance] --> B[Compare Train vs Live Data]
-    B --> C{Detect Drift?}
-    C -->|Yes| D[Compute Drift Metrics (PSI/KL)]
-    D --> E[Retrain Model with Recent Data]
-    E --> F[Deploy Updated Model]
-    C -->|No| G[Continue Monitoring]
-```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3dc2e004-9dc0-46f7-8e00-b0f14443f577" />
+
 
 ## **Conclusion****
 
