@@ -104,12 +104,12 @@ flowchart TD
 
 ### **Visual 2: Managing Imbalanced Medical Data**
 
-<img width="725" height="213" alt="image" src="https://github.com/user-attachments/assets/c2dfefde-40fc-44a7-8400-3c7d61b4c885" />
+<img width="725" height="213" alt="image" src="https://github.com/user-attachments/assets/c2dfefde-40fc-44a7-8400-3c7d61b4c885" /> 
 
 
 ### **Visual 3: Detecting & Addressing Data Drift**
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3dc2e004-9dc0-46f7-8e00-b0f14443f577" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3dc2e004-9dc0-46f7-8e00-b0f14443f577" />  
 
 
 ## **Conclusion****
