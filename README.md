@@ -127,7 +127,7 @@ It features real, current AI product launches and implementations focused on:
 - Discussed future opportunities such as AI copilots for clinical decision support and population health.
 
 - Addressed key risks including privacy, regulatory compliance, and model reliability.
-![create-an-image-of-a-professional-businessperson-w-lpdiAVNORQG3yIbavBn2ig-pbQQz7RDQua63WPfmjBWQA](https://github.com/user-attachments/assets/ba01352e-bf50-4415-85cc-f96725d2878d)
+  <img width="3240" height="2160" alt="22ba738b-162e-42b7-90a3-f1830ba914cf" src="https://github.com/user-attachments/assets/00b8703a-bd6e-4a78-a1a6-ef8ea20cf7c5" />
 
   
 
@@ -148,7 +148,7 @@ It features real, current AI product launches and implementations focused on:
 - Emphasized explainable AI models that support regulatory trust and analyst-grade insights.
 
 - Highlighted AI-driven automation in risk, compliance, and research while reinforcing the need for governance and human oversight.
-  <img width="3240" height="2160" alt="22ba738b-162e-42b7-90a3-f1830ba914cf" src="https://github.com/user-attachments/assets/00b8703a-bd6e-4a78-a1a6-ef8ea20cf7c5" />
+  - ![create-an-image-of-a-professional-businessperson-w-lpdiAVNORQG3yIbavBn2ig-pbQQz7RDQua63WPfmjBWQA](https://github.com/user-attachments/assets/ba01352e-bf50-4415-85cc-f96725d2878d)
 
 
 🛠️ Tools Used
