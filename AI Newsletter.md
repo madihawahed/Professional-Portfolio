@@ -120,5 +120,10 @@ Incorporated revisions:
 - Included leadership and business implications within each section.
 
 - Edited for brevity and improved professional tone.
-
 These changes made the newsletter more engaging and easier to understand.
+
+![N1](https://github.com/user-attachments/assets/3f171fcd-e5d7-4472-a861-eb41b49dfa5a)
+ ![N2](https://github.com/user-attachments/assets/8653d3e4-63cd-4d61-9319-0028f8e3ff2f)
+
+
+
