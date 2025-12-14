@@ -4,6 +4,7 @@
 ## **Introduction**
 
 This artifact is a professional technical newsletter I created summarizing three significant developments in artificial intelligence that demonstrate how AI is being adopted across industries. The newsletter highlights innovations in healthcare, financial services, and retail, showing how AI is driving operational transformation, regulatory confidence, and business impact.
+![N1](https://github.com/user-attachments/assets/3f171fcd-e5d7-4472-a861-eb41b49dfa5a)
 
 ## **Description**
 
@@ -120,7 +121,7 @@ Peer feedback received in Workshop Five included:
 - Edited for brevity and improved professional tone.
 These changes made the newsletter more engaging and easier to understand.
 
-![N1](https://github.com/user-attachments/assets/3f171fcd-e5d7-4472-a861-eb41b49dfa5a)
+
  ![N2](https://github.com/user-attachments/assets/8653d3e4-63cd-4d61-9319-0028f8e3ff2f)
 
 
