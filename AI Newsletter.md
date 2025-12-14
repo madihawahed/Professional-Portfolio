@@ -1,13 +1,12 @@
-Artifact #5 — Technical Newsletter: AI Advancements in Healthcare, Finance & Retail
-Title
+# Artifact #5 — Technical Newsletter: AI Advancements in Healthcare, Finance & Retail
 
-AI Advancements in Healthcare, Finance, and Retail: A Technical Newsletter
+## Title- AI Advancements in Healthcare, Finance, and Retail: A Technical Newsletter
 
-Introduction
+**Introduction**
 
 This artifact is a professional technical newsletter I created summarizing three significant developments in artificial intelligence that demonstrate how AI is being adopted across industries. The newsletter highlights innovations in healthcare, financial services, and retail, showing how AI is driving operational transformation, regulatory confidence, and business impact.
 
-Description
+**Description**
 
 The newsletter provides an accessible analysis of:
 
@@ -19,7 +18,7 @@ The newsletter provides an accessible analysis of:
 
 The content explains real-world applications of AI technology and connects them to broader organizational and societal challenges.
 
-Objective
+**Objective**
 
 * The objective of this newsletter was to:
 
@@ -29,7 +28,7 @@ Objective
 
 * Practice technical communication skills in a way that aligns with current industry trends.
 
-Process
+**Process**
 
 To create this artifact, I:
 
@@ -43,7 +42,7 @@ To create this artifact, I:
 
 5. Designed the newsletter to be informative for both technical and non-technical readers.
 
-Tools and Technologies Used
+**Tools and Technologies Used**
 
 * Google Docs / Microsoft Word: Drafting and editing the newsletter.
 
@@ -53,7 +52,7 @@ Tools and Technologies Used
 
 * Canva: To enhance readability and presentation.
 
-Value Proposition
+**Value Proposition**
 
 This newsletter shows:
 
@@ -63,7 +62,7 @@ This newsletter shows:
 
 - My readiness to communicate as a leader who connects technology strategy with business needs.
 
-Unique Value
+**Unique Value**
 
 What sets this artifact apart is:
 
@@ -73,7 +72,7 @@ What sets this artifact apart is:
 
 - A balanced view that highlights benefits and responsibilities of AI adoption.
 
-Relevance
+**Relevance**
 
 This artifact is relevant because:
 
@@ -83,7 +82,7 @@ This artifact is relevant because:
 
 - It aligns with professional goals of influencing strategy, innovation, and ethical technology use.
 
-Customization for the Audience
+**Customization for the Audience**
 
 To serve the intended audience (professionals, peers, and instructors):
 
@@ -93,7 +92,7 @@ To serve the intended audience (professionals, peers, and instructors):
 
 - I structured the content to be easy to navigate: industry by industry, with takeaways that matter to business leaders.
 
-Lessons Learned
+**Lessons Learned**
 
 During this project I learned:
 
@@ -103,7 +102,7 @@ During this project I learned:
 
 - How to anticipate audience questions and address them proactively in my writing.
 
-Feedback and Revisions
+**Feedback and Revisions**
 
 Peer feedback received in Workshop Five included:
 
@@ -113,7 +112,7 @@ Peer feedback received in Workshop Five included:
 
 * Recommendations to tighten paragraphs for greater readability.
 
-Incorporated revisions:
+**Incorporated revisions:**
 
 - Added clear section headers for healthcare, finance, and retail.
 
