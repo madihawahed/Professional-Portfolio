@@ -1,6 +1,5 @@
 # Artifact #5 — Technical Newsletter: AI Advancements in Healthcare, Finance & Retail
 
-## Title- AI Advancements in Healthcare, Finance, and Retail: A Technical Newsletter
 
 **Introduction**
 
