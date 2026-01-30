@@ -1,7 +1,9 @@
 # **Artifact Title**- Enterprise Knowledge Retrieval: Implementing a RAG System for Data-Driven AI
 
 ## **Introduction**
-This artifact demonstrates the implementation of a Retrieval-Augmented Generation (RAG) system, designed to bridge the gap between static Large Language Models and dynamic, proprietary enterprise data. It serves as a technical proof-of-concept for secure, grounded AI responses.
+This artifact is a comprehensive case study (Assignment 3.3) exploring the implementation of a Retrieval-Augmented Generation (RAG) system for a large-scale food and beverage retailer. The project addresses the "Information Overload" challenge by transforming static legacy PDFs and manuals into a dynamic, real-time AI "Expert Assistant" for store employees and compliance officers.
+<img width="1024" height="1024" alt="ooo" src="https://github.com/user-attachments/assets/614edfab-6d42-44df-8ed3-a6f95b0353f9" />
+
 
 ## **Artifact Description**
 *Objective*: To reduce "hallucinations" in AI outputs by providing the model with access to a specific, vetted knowledge base (PDFs/Docs) before generating a response.
@@ -27,6 +29,9 @@ This artifact demonstrates the implementation of a Retrieval-Augmented Generatio
 *Significance*: I chose this because RAG is currently the industry standard for enterprise AI. Mastering this demonstrates that I am current with modern AI architecture.
 
 *Lessons Learned*: I learned that "Garbage In, Garbage Out" applies heavily to embeddings; the way data is cleaned and chunked is more important than the actual LLM used for the final response.
+
+<img width="842" height="473" alt="1747733686565" src="https://github.com/user-attachments/assets/8c4a93ef-d04a-4a3c-aca7-01263e4cec48" />
+
 
 ## **Feedback and Revisions**
 
