@@ -1,4 +1,4 @@
-# *Artifact Title*- Enterprise Knowledge Retrieval: Implementing a RAG System for Data-Driven AI
+# **Artifact Title**- Enterprise Knowledge Retrieval: Implementing a RAG System for Data-Driven AI
 
 ## **Introduction**
 This artifact demonstrates the implementation of a Retrieval-Augmented Generation (RAG) system, designed to bridge the gap between static Large Language Models and dynamic, proprietary enterprise data. It serves as a technical proof-of-concept for secure, grounded AI responses.
@@ -40,4 +40,5 @@ This artifact demonstrates the implementation of a Retrieval-Augmented Generatio
 
 LangChain Documentation on Vector Stores.
 
-To know more about my artifact you can go through its case study report here (file:///C:/Users/MADIHA/OneDrive/Desktop/RAG_System_Case_Study_Report%20(1).html)
+Link to Artifact:
+https://madihawahed.github.io/rag-case-study/
