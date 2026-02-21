@@ -17,7 +17,7 @@ Executive Leadership (CTOs, COOs), hiring managers in the Fintech and EdTech sec
 
 SECTION 3: Featured Artifact - SmartAssist AI
 
-<embed src="NextGenFin.pdf" width="800px" height="500px" />
+<embed src="NextGenFin.pdf" width="800px" height="500px" />  
 
 Artifact Title: SmartAssist AI: A Generative AI Business Plan for Financial Compliance.
 
