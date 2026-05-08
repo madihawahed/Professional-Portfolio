@@ -11,7 +11,7 @@ Artificial Intelligence (AI) has become one of the most transformative technolog
 This portfolio artifact was created as a visually engaging cheat sheet and infographic-style framework to summarize the most widely used machine learning algorithms and their real-world applications. The goal was to simplify complex technical concepts into an organized, colorful, and easy-to-understand visual reference suitable for both beginners and professionals.
 
 Modern cheat sheet repositories and infographic-style ML resources are widely used in GitHub portfolios because they provide quick technical reference while also showcasing creativity and communication skills. 
-[View my Machine Learning Framework Artifact (PDF)](./CheatSheet.pdf)
+
 
 ---
 
@@ -35,6 +35,7 @@ The framework includes:
 * Visual relationship maps between AI technologies
 
 The artifact was intentionally designed in a GitHub-friendly infographic and cheat sheet style to make learning more interactive and visually appealing.
+<img width="2481" height="3508" alt="Cheat Sheet_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/cbeaa928-9867-44af-bf84-b112eb559a59" />
 
 ---
 
@@ -140,6 +141,7 @@ This helped transform the project from a theory summary into a practical AI refe
 | **Generative AI Tools**               | Content refinement and organization            |
 
 ---
+<img width="2481" height="3508" alt="Cheat Sheet_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/4215a5b4-98a5-4517-8424-bc0db5b2f422" />
 
 # 💡 VALUE PROPOSITION
 
@@ -264,7 +266,6 @@ TEXT • IMAGES • AUDIO • CODE
 
 # 📚 REFERENCES
 
-* [ML Cheat Sheet Generator](https://ml0x.com/?utm_source=chatgpt.com) — Interactive machine learning cheat sheet resource.
 * [DataCamp Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet?utm_source=chatgpt.com) — Beginner-friendly ML algorithm overview. 
 * [Machine Learning Mindmap GitHub Repository](https://github.com/dformoso/machine-learning-mindmap?utm_source=chatgpt.com) — Visual AI/ML mind map inspiration.
 * [AI/ML Cheat Sheets Repository](https://github.com/yennhi95zz/machine-learning-cheatsheets?utm_source=chatgpt.com) — GitHub cheat sheet collection. 
