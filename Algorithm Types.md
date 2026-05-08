@@ -11,6 +11,7 @@ Artificial Intelligence (AI) has become one of the most transformative technolog
 This portfolio artifact was created as a visually engaging cheat sheet and infographic-style framework to summarize the most widely used machine learning algorithms and their real-world applications. The goal was to simplify complex technical concepts into an organized, colorful, and easy-to-understand visual reference suitable for both beginners and professionals.
 
 Modern cheat sheet repositories and infographic-style ML resources are widely used in GitHub portfolios because they provide quick technical reference while also showcasing creativity and communication skills. 
+[View my Machine Learning Framework Artifact (PDF)](./CheatSheet.pdf)
 
 ---
 
