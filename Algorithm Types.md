@@ -108,7 +108,7 @@ The visual structure included:
 * Process flows
 * Section-based color coding
 
-Research shows infographic-based layouts improve readability and learning engagement for technical concepts. ([arXiv][3])
+Research shows infographic-based layouts improve readability and learning engagement for technical concepts. 
 
 ---
 
@@ -190,7 +190,7 @@ Machine learning is becoming increasingly important across nearly every industry
 * Autonomous Systems
 * Generative AI Development
 
-Generative AI, transformer architectures, and deep learning are currently among the fastest-growing areas in the technology industry. ([https://www.usdsi.org/][4])
+Generative AI, transformer architectures, and deep learning are currently among the fastest-growing areas in the technology industry. 
 
 This artifact remains highly relevant because it serves as:
 
@@ -263,12 +263,12 @@ TEXT • IMAGES • AUDIO • CODE
 
 # 📚 REFERENCES
 
-* [ML Cheat Sheet Generator](https://ml0x.com/?utm_source=chatgpt.com) — Interactive machine learning cheat sheet resource. ([Ml0x][1])
-* [DataCamp Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet?utm_source=chatgpt.com) — Beginner-friendly ML algorithm overview. ([DataCamp][5])
-* [Machine Learning Mindmap GitHub Repository](https://github.com/dformoso/machine-learning-mindmap?utm_source=chatgpt.com) — Visual AI/ML mind map inspiration. ([GitHub][6])
-* [AI/ML Cheat Sheets Repository](https://github.com/yennhi95zz/machine-learning-cheatsheets?utm_source=chatgpt.com) — GitHub cheat sheet collection. ([GitHub][2])
-* [KDnuggets Machine Learning Cheat Sheets](https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html?utm_source=chatgpt.com) — ML visual learning resources. ([KDnuggets][7])
-* [Cheat Sheets & Infographics for AI and ML](https://pupuweb.com/cheat-sheets-infographics-ai-neuralnetwork-machinelearning-bigdata/?utm_source=chatgpt.com) — AI infographic inspiration. ([PUPUWEB][8])
+* [ML Cheat Sheet Generator](https://ml0x.com/?utm_source=chatgpt.com) — Interactive machine learning cheat sheet resource.
+* [DataCamp Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet?utm_source=chatgpt.com) — Beginner-friendly ML algorithm overview. 
+* [Machine Learning Mindmap GitHub Repository](https://github.com/dformoso/machine-learning-mindmap?utm_source=chatgpt.com) — Visual AI/ML mind map inspiration.
+* [AI/ML Cheat Sheets Repository](https://github.com/yennhi95zz/machine-learning-cheatsheets?utm_source=chatgpt.com) — GitHub cheat sheet collection. 
+* [KDnuggets Machine Learning Cheat Sheets](https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html?utm_source=chatgpt.com) — ML visual learning resources. 
+* [Cheat Sheets & Infographics for AI and ML](https://pupuweb.com/cheat-sheets-infographics-ai-neuralnetwork-machinelearning-bigdata/?utm_source=chatgpt.com) — AI infographic inspiration. 
 
 [1]: https://ml0x.com/?utm_source=chatgpt.com "ML Cheat Sheet Generator | ml0x.com"
 [2]: https://github.com/yennhi95zz/machine-learning-cheatsheets?utm_source=chatgpt.com "GitHub - yennhi95zz/machine-learning-cheatsheets: A comprehensive collection of Machine Learning cheatsheets for quick reference and learning."
