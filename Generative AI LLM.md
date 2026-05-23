@@ -1,4 +1,5 @@
 
+
 # 📊 **Title:** Generative AI Infrastructure: Large Language Model (LLM) Training Compute & Cost Architecture
 
   
@@ -9,6 +10,7 @@
 Modern Large Language Models (LLMs) are marvels of computational engineering. However, moving from an empty architecture to a production-ready model like OpenAI’s GPT-4 or Meta’s LLaMA-3 requires massive computational power, vast amounts of energy, and heavy infrastructure investments.
 
 For data analysts, machine learning engineers, and stakeholders, understanding this execution pipeline is vital. This artifact acts as a definitive technical cheat sheet—breaking down the complex, multi-stage training pipeline into clear, manageable components while laying out the real-world resource costs that drive generative AI development.
+<img width="2481" height="3508" alt="GenAI_Infrastructure_Visual_CheatSheet_page-0001" src="https://github.com/user-attachments/assets/53ebd623-eb5d-49e1-b6f2-d9f0da0953af" />
 
 ---
 ## Description
@@ -55,6 +57,7 @@ The primary objective of this artifact is to map out the entire life cycle of LL
 •	Visual Encoders: Mermaid.js syntax for rendering architecture layouts directly within documentation.
 
 ---
+<img width="2481" height="3508" alt="GenAI_Infrastructure_Visual_CheatSheet_page-0002" src="https://github.com/user-attachments/assets/a5d74af2-5e3e-46fe-8e03-032598a70b97" />
 
 ## 💰 The Resource Cost Matrix: Real-World Model Breakdown
 
