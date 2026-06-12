@@ -13,7 +13,7 @@ This project presents a decision matrix that evaluates leading pre-trained model
 ---
 ### View Full Report
 
-📄 [Technical Analysis Report](report/technical-analysis.pdf)
+📄 [Technical Analysis Report](report/Explainability.pdf)
 
 ## The Problem
 
