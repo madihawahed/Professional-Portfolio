@@ -11,9 +11,10 @@ Selecting the right machine learning model is often more challenging than buildi
 This project presents a decision matrix that evaluates leading pre-trained models across three major AI domains: Natural Language Processing (NLP), Computer Vision, and Tabular Machine Learning. The goal was to identify practical trade-offs between model size, accuracy, speed, and explainability and transform those findings into a framework that supports real-world model selection.
 
 ---
-### View Full Report
+## 🔗 Quick Access
 
-📄 [Explainability Report](report/Explainability.pdf)
+📄 **Technical Analysis Report:**  
+[Open PDF Report](./report/Explainability.pdf)
 
 ## The Problem
 
